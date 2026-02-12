@@ -1,0 +1,4 @@
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+resend>=2.0.0
+beautifulsoup4>=4.12.0
